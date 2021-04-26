@@ -4,7 +4,7 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/SrButi" target="blank"><img align="center" src="./twitter100.png" alt="srbuti" height="30" width="40" /></a>
+<a href="https://twitter.com/SrButi" target="blank"><img align="center" src="./twitter100.png" alt="srbuti" height="30" width="30" /></a>
 <a href="https://youtube.com/channel/UCkiP5HRJil22m_KS7JUuMPw?sub_confirmation=1" target="blank"><img align="center" src="./youtube100.png" alt="buti" height="30" width="40" /></a>
 <a href="https://twitch.tv/SrButi" target="blank"><img align="center" src="./twitch100.png" alt="buti" height="30" width="40" /></a>
 </p>
