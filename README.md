@@ -27,5 +27,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=butidev&show_icons=true&theme=tokyonight&locale=es&layout=compact" alt="butidev" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=butidev&show_icons=true&theme=tokyonight&locale=es" alt="butidev" /></p>
