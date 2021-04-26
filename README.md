@@ -4,9 +4,9 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/SrButi" target="blank"><img align="center" src="./twitter100.png" alt="srbuti" height="30" width="30" /></a>
-<a href="https://youtube.com/channel/UCkiP5HRJil22m_KS7JUuMPw?sub_confirmation=1" target="blank"><img align="center" src="./youtube100.png" alt="buti" height="30" width="40" /></a>
-<a href="https://twitch.tv/SrButi" target="blank"><img align="center" src="./twitch100.png" alt="buti" height="30" width="40" /></a>
+<a href="https://twitter.com/SrButi" target="_blank"><img align="center" src="./twitter100.png" alt="srbuti" height="30" width="30" /></a>
+<a href="https://youtube.com/channel/UCkiP5HRJil22m_KS7JUuMPw?sub_confirmation=1" target="blank"><img align="center" src="./youtube100.png" alt="buti" height="30" width="30" /></a>
+<a href="https://twitch.tv/SrButi" target="_blank"><img align="center" src="./twitch100.png" alt="buti" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas que uso:</h3>
@@ -27,5 +27,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=butidev&show_icons=true&theme=tokyonight&locale=es&layout=compact" alt="butidev" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=butidev&show_icons=true&theme=tokyonight&locale=es" alt="butidev" /></p>
